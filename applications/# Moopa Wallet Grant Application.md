@@ -4,7 +4,7 @@
 
 - **Project Name**: Moopa Wallet
 - **Team Name**: IOts Lab
-- **Payment Address**: To be provided upon approval
+- **Payment Address**: 123Z9cw48m6s7MyesxcxRad9fjV14UGQFh6qLUCJeNdiydoA
 - **Level**: 1
 - **License**: Apache 2.0
 
