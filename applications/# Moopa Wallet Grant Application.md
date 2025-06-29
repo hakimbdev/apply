@@ -52,8 +52,8 @@ Abdulhakim Ahmad also has a strong background in AI engineering and has led acce
 
 ## Team LinkedIn/Website/GitHub
 
-- Website: [https://iorbitlabs.vercel.app](https://iorbitlabs.vercel.app)
-- GitHub: [https://github.com/iorbitlabs](https://github.com/iorbitlabs)
+- Website: [https://iorbittechsolutionslab.netlify.app/]
+- GitHub: [https://github.com/iorbitlabs](https://github.com/hakimbdev)
 
 ## Development Roadmap
 
